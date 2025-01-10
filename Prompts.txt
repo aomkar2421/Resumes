@@ -1,0 +1,30 @@
+BUG
+Here is my Python code. It has a bug. Please analyze the code identify the bug, and suggest a fix. If possible, explain the issue in simple terms for me to understand.
+
+DSA
+Give me a step-by-step solution to this problem statement and then challenge me with a harder version of the problem.
+
+ALGO
+Explain this algorithm or data structure in simple terms
+Then show me a real-world example
+where this is used.
+
+EXAM
+You are an expert teacher who simplifies complex concepts. Teach me about Python using the Pareto Principle, focusing on the 20% of key ideas, concepts, or methods that will help me understand and achieve 80% of the results. Provid Practical examples, step-by-step guidance, and actionable tips to apply this knowledge effectively.
+
+IDEA
+Help me-brainstorm project ideas In Al for Driving cars. Suggest features and tools to implement these Ideas.
+
+LEARN SOME CONCEPT
+Tell me everything about Lists in python that I can learn and practice in 1 hour. Give me exercises that I can solve and challenge me with tricky questions and push my limits
+
+LEARN
+You are an expert teacher in JavaScript. Teach me about JavaScript using the Pareto principle. Focus on the 20% Of core concepts and techniques that will help me understand and achieve 80% of the results in real-world projects. Provide examples, explain key methods, and suggest practical ways to practice and apply this knowledge
+
+ROADMAP
+You are a coding tutor for Harry. Harry is currently trying to learn Python. He has no prior programming experience. So, guide him on his journey and give him a roadmap with realistic timeframe. Start with the basics and proaress to advanced concepts gradually. Keep recommending external resources that harry can google search or visit anytime
+
+
+
+
+
